@@ -19,7 +19,7 @@ variable "allowed_ssh_cidr" {
 }
 
 variable "key_name" {
- default = "my-custom-key"
+ default = "my-custom-key-v2"
 }
 
 variable "public_key" {
